@@ -1,6 +1,6 @@
 The Galileo Python module for constructing canonical genetic algorithms.
 Version 1.0b
-Copyright 2003, Donald Goodman
+Copyright 2003, D.E. Goodman-Wilson
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -20,14 +20,12 @@ See sample.py for an example of how to use this module. It's really very
 simple, but you must remember that there a number of variables that
 must be set, as they do not have default values.
 
-Questions about this software may be directed at dgoodman@cs.msstate.edu
-The latst version of this software can be found at
-http://www.cs.msstate.edu/~dgoodman
-or
-http://www.sourceforge.net/projects/galileo
+Questions about this software may be directed at dgoodman@railstars.com
+The latest version of this software can be found at
+https://github.com/Railstars/Galileo
 
-Much of this program is cribbed from the C++ ga2 library, also by Donald
-Goodman. That in turn was based on Goldberg's work from his book /Genetic
+Much of this program is cribbed from the C++ ga2 library, also by D.E.
+Goodman-Wilson. That in turn was based on Goldberg's work from his book /Genetic
 Algorithms/
 
 Note, you don't have to install this to use it. You can simply copy
