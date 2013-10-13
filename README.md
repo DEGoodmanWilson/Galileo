@@ -1,3 +1,6 @@
+Galileo
+=======
+
 The Galileo Python module for constructing canonical genetic algorithms.
 Version 1.0b
 Copyright 2003, D.E. Goodman-Wilson
@@ -38,3 +41,5 @@ THIS IS BETA SOFTWARE!
 It has bugs. I just haven't found them yet. And I haven't implemented
 ranked selection yet either, which a lot of people will want. Email reports
 of bugs are greatly appreciated!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DEGoodmanWilson/galileo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
